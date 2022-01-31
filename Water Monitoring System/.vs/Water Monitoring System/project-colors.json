@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d4c19ce-33ee-4915-93b5-042011f2b188": {
+      "ProjectGuid": "3d4c19ce-33ee-4915-93b5-042011f2b188",
+      "DisplayName": "Water Monitoring System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,20 @@
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\bin\Debug\netstandard2.0\Water Monitoring System.deps.json
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\bin\Debug\netstandard2.0\Water Monitoring System.dll
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\bin\Debug\netstandard2.0\ref\Water Monitoring System.dll
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\bin\Debug\netstandard2.0\Water Monitoring System.pdb
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Water Monitoring System.csproj.AssemblyReference.cache
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Water Monitoring System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Water Monitoring System.AssemblyInfoInputs.cache
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Water Monitoring System.AssemblyInfo.cs
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Water Monitoring System.csproj.CoreCompileInputs.cache
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Water Monitoring System.dll
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\ref\Water Monitoring System.dll
+E:\Documets\GitHub\Water-Monitoring-App\Water Monitoring System\Water Monitoring System\Water Monitoring System\obj\Debug\netstandard2.0\Water Monitoring System.pdb

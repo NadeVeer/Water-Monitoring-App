@@ -3177,11 +3177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.Android\\Water Monitoring System.Android.csproj",
+      "projectUniqueName": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.Android\\Water Monitoring System.Android.csproj",
       "projectName": "Water Monitoring System.Android",
-      "projectPath": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.Android\\Water Monitoring System.Android.csproj",
+      "projectPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.Android\\Water Monitoring System.Android.csproj",
       "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
-      "outputPath": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.Android\\obj\\",
+      "outputPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3198,8 +3198,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj": {
-              "projectPath": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj"
+            "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj": {
+              "projectPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj"
             }
           }
         }

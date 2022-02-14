@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DvRKm+nv3lYUbJ3YPtlxiJVcB3dUxnEXXFhT6/uw7Q0u4GyVoN+E/yzJKaXH23samvJkDJaU/+BwtI8S/We7mA==",
+  "dgSpecHash": "TbDWiF9j/fJuQWBrnsYoZ1sDEi0iun5bJylKnTVm+vfvDRlyFbNao+hs/rFRVIDEOlN/Mv9OkdxcNTWMXI24Rg==",
   "success": true,
-  "projectFilePath": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.Android\\Water Monitoring System.Android.csproj",
+  "projectFilePath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.Android\\Water Monitoring System.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WIN10\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\WIN10\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

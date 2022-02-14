@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QoYU6LuGEMjQu4GTZzydZUglx8jWWDw4YY1TOjMctUHRmvLyUcO++cmW3QeT71idHWNldOEMlTwkLabXJQqZag==",
+  "dgSpecHash": "qD5+Ri7QUMMiwTbxnFkClHWWUhe0Jv5e5au5yd/OMXqbEdVn7KMn141JYwbBA2nQviT29itZH6S91FSKSKfEow==",
   "success": true,
-  "projectFilePath": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj",
+  "projectFilePath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WIN10\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\WIN10\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj": {}
+    "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj": {}
   },
   "projects": {
-    "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj": {
+    "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj",
+        "projectUniqueName": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj",
         "projectName": "Water Monitoring System",
-        "projectPath": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj",
+        "projectPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System.csproj",
         "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
-        "outputPath": "E:\\Documets\\VS projects\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\obj\\",
+        "outputPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\Water Monitoring System\\Water Monitoring System\\Water Monitoring System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",

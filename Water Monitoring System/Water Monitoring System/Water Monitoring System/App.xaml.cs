@@ -1,32 +1,31 @@
 ﻿using System;
-using Water_Monitoring_System.Services;
-using Water_Monitoring_System.Views;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
-
-namespace Water_Monitoring_System
+namespace XF_Login
 {
     public partial class App : Application
     {
-
         public App()
         {
             InitializeComponent();
-
-            DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            MainPage = new XF_Login.Pages.LoginPage();
+            
         }
 
         protected override void OnStart()
         {
+            // Handle when your app starts  
         }
-
         protected override void OnSleep()
         {
+            // Handle when your app sleeps  
         }
-
         protected override void OnResume()
         {
+            // Handle when your app resumes  
+        }
+        private void InitializeComponent()
+        {
+  
         }
     }
 }

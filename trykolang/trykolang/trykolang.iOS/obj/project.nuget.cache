@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "rRuQVbh6EDYHh2ZBY7walFRAu0ELnaNDw2Xh4nkuIRccfJMvv3DuI6jyhGORj7PERq9ugvLiYs2A4SRLgzBN6Q==",
+  "dgSpecHash": "k/yxBgu2+QdLY2MpyaEyrtbbL21jUg7GFJR4wCcIN6gRngvWMMood/qI0gK9vD0w2he8TumYT2D59wWGkF2hug==",
   "success": true,
-  "projectFilePath": "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj",
+  "projectFilePath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\WIN10\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\WIN10\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\WIN10\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\WIN10\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\WIN10\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\WIN10\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\WIN10\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\WIN10\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\WIN10\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\WIN10\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],

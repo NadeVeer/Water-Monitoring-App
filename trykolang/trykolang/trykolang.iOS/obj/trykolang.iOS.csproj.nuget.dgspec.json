@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj": {}
+    "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj": {}
   },
   "projects": {
-    "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj": {
+    "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj",
+        "projectUniqueName": "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj",
         "projectName": "trykolang.iOS",
-        "projectPath": "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj",
+        "projectPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang.iOS\\trykolang.iOS.csproj",
         "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
-        "outputPath": "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang.iOS\\obj\\",
+        "outputPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang\\trykolang.csproj": {
-                "projectPath": "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang\\trykolang.csproj"
+              "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang\\trykolang.csproj": {
+                "projectPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang\\trykolang.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang\\trykolang.csproj": {
+    "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang\\trykolang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang\\trykolang.csproj",
+        "projectUniqueName": "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang\\trykolang.csproj",
         "projectName": "trykolang",
-        "projectPath": "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang\\trykolang.csproj",
+        "projectPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang\\trykolang.csproj",
         "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
-        "outputPath": "E:\\Documets\\VS projects\\trykolang\\trykolang\\trykolang\\obj\\",
+        "outputPath": "E:\\Documets\\GitHub\\Water-Monitoring-App\\trykolang\\trykolang\\trykolang\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,6 +110,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2196, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
